@@ -119,7 +119,7 @@ The loss graph demonstrates how the model **optimizes during training**.
 ### Cat Prediction (Correct)
 
 <p align="center">
-<img src="images/prediction1.png" width="400">
+<img src="images/cat_prediction_correct.png" width="400">
 </p>
 
 ---
@@ -127,7 +127,7 @@ The loss graph demonstrates how the model **optimizes during training**.
 ### Dog Prediction (Incorrect)
 
 <p align="center">
-<img src="images/prediction2.png" width="400">
+<img src="images/dog_prediction_wrong.png" width="400">
 </p>
 
 Because the dataset is very small, the model may sometimes misclassify images.
